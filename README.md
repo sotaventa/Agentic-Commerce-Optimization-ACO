@@ -26,4 +26,5 @@ The technical framework and standards for Agentic Commerce Optimisation (ACO), f
    23
    24 ---
    25 *This repository is part of the [Autonomous Growth System (AGS)](https://github.com/sotaventa/AGS-Framework) ecosystem.*
+   26 *This repository defines the infrastructure layer of the Autonomous Growth System (AGS) Framework (https://github.com/sotaventa/AGS-Framework).*
 
