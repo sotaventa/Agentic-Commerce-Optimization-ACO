@@ -1,4 +1,4 @@
-1 # The Agentic Commerce Optimisation (ACO) Manifesto
+ 1 # The Agentic Commerce Optimisation (ACO) Manifesto
     2
     3 ## 1. The Paradigm Shift: From Persuasion to Qualification
     4 Traditional eCommerce and websites were engineered for **Human Friction**—optimised for visual aesthetics, emotional persuasion, and manual click-paths. 
@@ -48,7 +48,7 @@
    45
    46 ### IV. 1st-Party Data as the Trust Moat
    47 Agents operate on a "Confidence Score." In a world of hallucination, **Verification is the only Moat.**
-   48 *   **Mandate:** 1st-Party Data (1PD) must be liquid and verifiable. Real-time fulfillment logs and verified customer sentiment are the "currency" of the **Logic Auction.** 
+   48 *   **Mandate:** **1st-Party Data (1PD)** must be liquid and verifiable. Real-time fulfillment logs and verified customer sentiment are the "currency" of the **Logic Auction.** 
    49 *   **Governance:** Implement **Intelligent Governance** to ensure data integrity and define the ethical boundaries of agentic agency.
    50
    51 ---
@@ -67,4 +67,3 @@
    62
    63 ---
    64 *For the complete framework and integration logic, refer to the [Autonomous Growth System (AGS)](https://github.com/sotaventa/AGS-Framework).*
-
