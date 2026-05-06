@@ -11,15 +11,15 @@ The technical framework and standards for Agentic Commerce Optimisation (ACO), f
     8
     9 | Feature | AEO (Answer Engine Opt.) | ACO (Agentic Commerce Opt.) |
    10 | :--- | :--- | :--- |
-   11 | **Objective** | To be **cited** and recommended. | To be **selected** and purchased. |
-   12 | **Focus** | Content, Sentiment, and Natural Language. | APIs, 1PD Liquidity, and Schema. |
-   13 | **Key Metric** | Share of Voice / Citations. | Agentic GMV / Selection Logic. |
+   11 | **Objective** | To be **mentioned**. | To be **selected**, **cited** and purchased. |
+   12 | **Focus** | Content, Sentiment, and Natural Language. | APIs, JSON, protocols, 1PD Liquidity, and Schema. |
+   13 | **Key Metric** | Share of Model / Citations. | Machine Preference Index (MPI) / Selection Logic. |
    14 | **Analogy** | The "Billboard" for the AI. | The "API Key" for the AI's wallet. |
    15
    16 ## The Three Pillars of ACO
    17 1. **Machine Legibility (Discovery):** Transitioning data from human-readable text to high-fidelity, machine-interpretable signals (WebMCP/UCP).
    18 2. **Signal Resilience (Preference):** Ensuring 1st-party data acts as a verifiable trust layer that AI models can prioritize.
-   19 3. **Transactional Readiness (Execution):** Engineering "Zero-UI" checkout paths for autonomous agents.
+   19 3. **Transactional Readiness (Execution):** Engineering "Zero-UI" or headless checkout paths for autonomous agents.
    20
    21 ## Implementation & Measurement
    22 The primary methodology for executing and auditing ACO is the **Agentic Readiness Score (ARS)**, developed by [Malin Gaertig](https://malingaertig.com).
